@@ -1,16 +1,3 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [Useful tricks](#)
-	- [bash](#)
-	- [vim](#)
-	- [Fortran](#)
-	- [C/C++](#)
-	- [Python](#)
-	- [git](#)
-	- [Ruby](#)
-	- [CMake](#)
-		- [TriBITS](#)
-
 # Useful tricks
 
 ## bash
